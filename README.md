@@ -34,5 +34,5 @@ Les features utilisées sont :
 
 Pour jouer il suffit juste d'utiliser les touches directionnelles du clavier. En effet, la touche gauche et droite pour déplacer la piece horizontalement. Puis la flèche du haut pour la rotation horaire. 
 
-Pour exécuter notre jeu : Vous pouvez utiliser l’IDE Eclipse. Puis, importer le projet et enfin faire un « update project », (ça correspond au maven install)
+Pour exécuter notre jeu : Vous pouvez utiliser l’IDE Eclipse. Puis, importer le projet et enfin faire un « update project », (ça correspond au maven install).
 
